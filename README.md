@@ -1,7 +1,7 @@
 #Number Guessing Game                           
 This Number Guessing Game is built using the Java programming language. The game uses the Random and Scanner classes, which are part of Java's built-in libraries.
 
-#Description
+#Description                                                                                            
 Random: Used to generate a random number between 1 and 100.         
 Scanner: Used to take user input from the console.             
 The game will prompt you to guess the number, providing hints if your guess is too high or too low. You just need to have Java installed to run this program.        
